@@ -1,4 +1,5 @@
 # Dice_Game
+### For playing game visit https://iharshitgangwar.github.io/Dice_Game/
 Dice Game using Java Script
 ## Dice Game Rule
 * Two players can play
