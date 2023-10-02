@@ -41,7 +41,8 @@ footer {
 }
 .btn{
   color: #ffffff;
-		background-color: #3fab9f;
+	margin: 30px auto;
+background-color: #3fab9f;
 		font-size: 19px;
 		border: 4px solid #2d63c8;
 			padding: 15px 50px;
